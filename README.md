@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Courses**
 
-- 📫 How to reach me **Laura.rodriguezperales98@gmail.com**
+- 📫 How to reach me **lauraperales9298@gmail.com**
 <div class="container">
   <div class="row" >
     <div class="col-6">
