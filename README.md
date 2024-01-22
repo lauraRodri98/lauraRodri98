@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laurarodri98&label=Profile%20views&color=0e75b6&style=flat" alt="laurarodri98" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src ="https://github-profile-tropico.vercel.app/?username=laurarodri98" alt="laurarodri98" /></a> </p>
 
 - 🌱 I’m currently learning **Courses**
