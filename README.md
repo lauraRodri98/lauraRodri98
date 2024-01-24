@@ -33,7 +33,6 @@
         <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
         <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
         </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laurarodri98&show_icons=true&locale=en" alt="laurarodri98" /></p>
   </td><td valign="top" width="33%">
 </div>
 </div>
