@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src ="https://github-profile-tropico.vercel.app/?username=laurarodri98" alt="laurarodri98" /></a> </p>
-
 - 🌱 I’m currently learning **Courses**
 - 📫 Cómo comunicarse conmigo **lauraperales9298@gmail.com**
 - 📄 Conozca mis experiencias [https://github.com/lauraRodri98/Porfolio-HTML.git](https://github.com/lauraRodri98/Porfolio-HTML .git)
