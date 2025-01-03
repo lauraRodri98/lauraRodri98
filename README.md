@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center">Soy una apasionada del desarrollo web, combinando creatividad y funcionalidad para crear experiencias digitales únicas. Actualmente, estoy enfocada en proyectos que integran tecnología, diseño y accesibilidad.</p>
+<p align="center">Soy desarrolladora web, combinando creatividad y funcionalidad para crear experiencias digitales únicas. Actualmente, estoy enfocada en proyectos que integran tecnología, diseño y accesibilidad.</p>
 
 ---
 
