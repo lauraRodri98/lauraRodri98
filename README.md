@@ -18,7 +18,6 @@
 - 🌱 **Actualmente estoy aprendiendo:** React, SASS y optimización de APIs.
 - 🎨 **Intereses:** Diseño UX/UI, aplicaciones accesibles y proyectos creativos.
 - 📚 **Proyectos recientes:**
-  - [Cognivia](#): Una app para el deterioro cognitivo que combina juegos interactivos y tecnología IA.
   - [Sistema de Gestión de Stock](#): Diseño animalista con funcionalidades de estadísticas y alertas.
 - 📫 **Cómo contactarme:** [lauraperales9298@gmail.com](mailto:lauraperales9298@gmail.com)
 - 🌍 **Ubicación:** Granada, España
