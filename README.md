@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Sobre mí
-- 🌱 **Actualmente estoy aprendiendo:** React, SASS y optimización de APIs.
+- 🌱 **Actualmente estoy aprendiendo:** Figma y optimización de APIs.
 - 🎨 **Intereses:** Diseño UX/UI, aplicaciones accesibles y proyectos creativos.
 - 📚 **Proyectos recientes:**
   - [Sistema de Gestión de Stock](#): Diseño animalista con funcionalidades de estadísticas y alertas.
