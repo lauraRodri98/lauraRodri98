@@ -1,38 +1,63 @@
-<h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h1 align="center">Hola 👋, soy Laura</h1>
+<h3 align="center">Programadora y Diseñadora Web Junior con Enfoque en Frontend</h3>
 
-- 🌱 I’m currently learning **Courses**
-- 📫 Cómo comunicarse conmigo **lauraperales9298@gmail.com**
-- 📄 Conozca mis experiencias [https://github.com/lauraRodri98/Porfolio-HTML.git](https://github.com/lauraRodri98/Porfolio-HTML .git)
-  
-<div class="container">
-  <div class="row" >
-    <div class="col-6">
-      <h3 align="left">Connect with me:</h3>
-      <p align="left"
-      <a href="https://linkedin.com/in/laura rodríguez perales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura rodríguez perales" height="30" width="40" /></a>
-      <a href="https://instagram.com/laura_rodriperales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laura_rodriperales" height="30" width="40" /></a></p>    
-    </div> 
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-blue" alt="React">
+  <img src="https://img.shields.io/badge/Backend-Node.js-green" alt="Node.js">
+  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Design-UX/UI-lightgrey" alt="UX/UI">
+</p>
 
-  <div class="col-6">
-    <h3 align="left">Tools:</h3>
-<div align="center">  
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-        <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-        <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-        <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-        <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-        </div>
-  </td><td valign="top" width="33%">
-</div>
-</div>
-</div>
+---
+
+<p align="center">Soy una apasionada del desarrollo web, combinando creatividad y funcionalidad para crear experiencias digitales únicas. Actualmente, estoy enfocada en proyectos que integran tecnología, diseño y accesibilidad.</p>
+
+---
+
+### 🚀 Sobre mí
+- 🌱 **Actualmente estoy aprendiendo:** React, SASS y optimización de APIs.
+- 🎨 **Intereses:** Diseño UX/UI, aplicaciones accesibles y proyectos creativos.
+- 📚 **Proyectos recientes:**
+  - [Cognivia](#): Una app para el deterioro cognitivo que combina juegos interactivos y tecnología IA.
+  - [Sistema de Gestión de Stock](#): Diseño animalista con funcionalidades de estadísticas y alertas.
+- 📫 **Cómo contactarme:** [lauraperales9298@gmail.com](mailto:lauraperales9298@gmail.com)
+- 🌍 **Ubicación:** Granada, España
+
+---
+
+### 🌟 Conéctate conmigo
+<p align="left">
+  <a href="https://linkedin.com/in/laura-rodriguez-perales" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/laura_rodriperales" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Herramientas y Tecnologías
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="SASS" height="50" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+</p>
+
+---
+
+### 📊 Mis estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lauraRodri98&show_icons=true&theme=radical" alt="Laura's GitHub stats" />
+</p>
+
+---
+
+### 🌈 Inspiración
+> "El diseño no es solo cómo se ve, sino cómo funciona." – Steve Jobs
 
 
 
