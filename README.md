@@ -20,8 +20,8 @@
 - 🌱 **Actualmente estoy aprendiendo:** Ciberseguridad.
 - 🎨 **Intereses:** Diseño UX/UI, aplicaciones accesibles y proyectos creativos.
 - 📚 **Proyectos recientes:**
-  - [Sistema de Gestión de Stock](#): Diseño animalista con funcionalidades de estadísticas y alertas.
-- 📫 **Cómo contactarme:** [lauraperales9298@gmail.com](mailto:lauraperales9298@gmail.com)
+  - [Sistema de Gestión de Stock](https://github.com/lauraRodri98/Gestion-Inventario)): Diseño animalista con funcionalidades de estadísticas y alertas.
+- 📫 **Cómo contactarme:** [laura.rodriguezperales98@gmail.com](mailto:laura.rodriguezperales98@gmail.com)
 - 🌍 **Ubicación:** Granada, España
 
 ---
@@ -55,7 +55,7 @@
 ---
 
 ### 🌈 Inspiración
-> "El diseño no es solo cómo se ve, sino cómo funciona." – Steve Jobs
+> "El diseño no es solo cómo se ve y se siente, sino cómo funciona." – Steve Jobs
 
 
 
