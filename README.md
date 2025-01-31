@@ -38,14 +38,11 @@
 ### 🛠️ Herramientas y Tecnologías
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-  <a href="https://next.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/next-original-wordmark.svg" alt="Next" height="50" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="SASS" height="50" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" height="50" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/TailwindLogo.png" alt="Tailwind CSS" height="50" /></a>
-
   <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 </p>
 
