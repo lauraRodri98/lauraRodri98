@@ -2,10 +2,13 @@
 <h3 align="center">Programadora y Diseñadora Web Junior con Enfoque en Frontend</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue" alt="React">
-  <img src="https://img.shields.io/badge/Frontend-React-lightblue" alt="Next">
+  <img src="https://img.shields.io/badge/Frontend-JavaScript-lightyellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Frontend-NextJS-blue" alt="Next.js">
+  <img src="https://img.shields.io/badge/Frontend-React-lightblue" alt="React">
   <img src="https://img.shields.io/badge/Backend-Node.js-green" alt="Node.js">
   <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Database-PHP-brightpurple" alt="PHP">
+  <img src="https://img.shields.io/badge/Database-MySQL-brightgreen" alt="MySQL">
   <img src="https://img.shields.io/badge/Design-UX/UI-lightgrey" alt="UX/UI">
 </p>
 
