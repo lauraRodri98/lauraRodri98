@@ -20,7 +20,7 @@
 
 ### 🚀 Sobre mí
 - ✨ **Portafolio:** [laura.bet](https://laura.bet)
-- 🌱 **Actualmente estoy aprendiendo:** Ciberseguridad.
+- 🌱 **Actualmente estoy aprendiendo:** Ciberseguridad y Wordpress.
 - 🎨 **Intereses:** Diseño UX/UI, aplicaciones accesibles y proyectos creativos.
 - 📚 **Proyectos recientes:**
   - [Sistema de Gestión de Stock](https://github.com/lauraRodri98/Gestion-Inventario)): Diseño animalista con funcionalidades de estadísticas y alertas.
